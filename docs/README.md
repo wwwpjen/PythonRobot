@@ -1,4 +1,4 @@
-## Python Robotics Documentation
+## Python Robot Documentation
 
 This folder contains documentation for the Python Robotics project.
 
